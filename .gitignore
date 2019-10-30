@@ -1,0 +1,14 @@
+/target/
+*.class
+*.jar
+*.tar
+*.tar.gz
+/dist/
+/.settings/
+/bin/
+.classpath
+.project
+*.prefs
+/.idea/
+/out/
+*.iml
